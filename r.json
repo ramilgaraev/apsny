@@ -1,0 +1,31 @@
+{
+  "upd": "12.10.2015", 
+  "welcome": "welcome",
+  "stops": [
+    {
+      "name": "Сухум",
+      "price": 250,
+      "schedule": "С 7:00 до 15:00",
+      "description": "Нюансы"
+    },
+    {
+      "name": "Сухум",
+      "price": 250,
+      "schedule": "С 7:00 до 15:00",
+      "description": "Нюансы"
+    },
+    {
+      "name": "Сухум",
+      "price": 250,
+      "schedule": "С 7:00 до 15:00",
+      "description": "Нюансы"
+    }
+  ],
+  "guide": [
+    {
+      "title" : "Title",
+      "subtitle" : "sub",
+      "text" : "Text"
+    }
+  ]
+}
